@@ -2,6 +2,9 @@
 
 ## Project Overview
 Built an end-to-end retail analytics solution using Statistics Canada retail sales data, Python, and Power BI.
+## Dashboard Preview
+
+![Canadian Retail Sales Analytics Dashboard](dashboard-original.png)
 
 ## Pipeline
 Statistics Canada → Python download → unzip → clean → statistical analysis → CSV → Power BI refresh
